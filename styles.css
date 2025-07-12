@@ -57,3 +57,35 @@ header {
 .slide:first-child {
   display: block;
 }
+
+.testimonials {
+  background: #fff;
+  padding: 2em;
+  text-align: center;
+}
+
+.testimonial {
+  margin: 1em auto;
+  max-width: 600px;
+  font-style: italic;
+  color: #555;
+}
+
+footer {
+  text-align: center;
+  padding: 2em;
+}
+
+footer button {
+  background-color: #e91e63;
+  color: white;
+  border: none;
+  padding: 1em 2em;
+  font-size: 1.2em;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+footer button:hover {
+  background-color: #d81b60;
+}
