@@ -77,17 +77,28 @@ header h1 {
 }
 
 .testimonials {
-  background: #fff;
-  padding: 2em;
+  background: #1a1a1a; /* Darker background for contrast */
+  padding: 3em 2em;
   text-align: center;
+  border-radius: 12px;
+  max-width: 700px;
+  margin: 3em auto;
+  box-shadow: 0 8px 20px rgba(233, 30, 99, 0.5); /* Pinkish glow */
+  color: #ff80ab; /* Soft pink text */
+  font-family: 'Courier New', Courier, monospace; /* Script-y font vibe */
+  font-style: italic;
+  letter-spacing: 0.05em;
 }
 
 .testimonial {
-  margin: 1em auto;
+  margin: 1.5em auto;
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #ffb3cc; /* Slightly lighter pink */
+  text-shadow: 0 0 5px rgba(255, 105, 180, 0.7);
   max-width: 600px;
-  font-style: italic;
-  color: #555;
 }
+
 
 footer {
   text-align: center;
