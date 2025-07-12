@@ -10,8 +10,7 @@ A fake booking site for a mysterious and slightly questionable van experience. C
 
 Check it out here: 
 
-*(replace with your actual GitHub Pages link)*
-
+(https://funnysites.github.io/SmashVan/)
 ## 🧠 Features
 
 - Three totally ridiculous pricing tiers: Criminals, Raiders, and Kings.
