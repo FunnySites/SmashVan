@@ -76,6 +76,24 @@ header h1 {
   display: block;
 }
 
+.scenery-hint {
+  max-width: 600px;
+  margin: 2em auto 4em auto;
+  background: rgba(255, 105, 180, 0.1); /* soft pink transparent */
+  padding: 1.5em 2em;
+  border-radius: 12px;
+  text-align: center;
+  font-style: italic;
+  color: #ff80ab;
+  box-shadow: 0 0 10px rgba(233, 30, 99, 0.2);
+}
+
+.scenery-hint h3 {
+  margin-bottom: 0.5em;
+  color: #e91e63;
+  font-weight: 600;
+}
+
 .testimonials {
   background: #1a1a1a; /* Darker background for contrast */
   padding: 3em 2em;
